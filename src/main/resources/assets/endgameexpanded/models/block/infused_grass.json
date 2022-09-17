@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "endgameexpanded:block/infused_grass_top",
+    "bottom": "endgameexpanded:block/infused_dirt",
+    "side": "endgameexpanded:block/infused_grass"
+  }
+}

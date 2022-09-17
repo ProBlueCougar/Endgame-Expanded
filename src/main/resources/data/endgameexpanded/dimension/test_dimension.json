@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:overworld",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "endgameexpanded:noise_settings_test",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "endgameexpanded:test_biome"
+    }
+  }
+}
