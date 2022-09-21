@@ -1,0 +1,1 @@
+{  "type": "minecraft:crafting_shaped",  "pattern": [    "IFI",    " I ",    " I "  ],  "key": {    "F": {      "item": "minecraft:flint_and_steel"    },	"I": {		"item": "endgameexpanded:ender_ingot"	}  },  "result": {    "item": "endgameexpanded:interdimensional_lighter",    "count": 1  }}

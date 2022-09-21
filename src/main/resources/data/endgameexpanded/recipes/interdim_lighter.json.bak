@@ -1,0 +1,1 @@
+{  "type": "minecraft:crafting_shaped",  "pattern": [    "EFE",    " I ",    " I "  ],  "key": {    "E": {      "item": "minecraft:endstone"    },    "I": {      "item": "endgameexpanded:ender_ingot"    },	"F": {		"item": "minecraft:flint"	}  },  "result": {    "item": "tutorial:custom_item",    "count": 4  }}

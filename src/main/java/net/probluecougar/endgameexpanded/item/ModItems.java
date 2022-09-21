@@ -9,7 +9,8 @@ import net.probluecougar.endgameexpanded.EndgameExpanded;
 
 public class ModItems {
 
-    public static final Item INTERDIMENSIONAL_LIGHTER = registerItems("interdimensional_lighter", new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+    public static final Item INTERDIMENSIONAL_LIGHTER = registerItems("interdimensional_lighter", new Item(new FabricItemSettings().group(ItemGroup.TOOLS)));
+    public static final Item ENDER_INGOT = registerItems("ender_ingot", new Item(new FabricItemSettings().group(ItemGroup.MISC)));
 
 
     private static Item registerItems(String name, Item item) {

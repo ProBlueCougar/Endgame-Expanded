@@ -4,8 +4,33 @@
     "type": "minecraft:noise",
     "settings": "endgameexpanded:noise_settings_test",
     "biome_source": {
-      "type": "minecraft:fixed",
-      "biome": "endgameexpanded:test_biome"
+      "type": "minecraft:multi_noise",
+      "biomes": [
+        {
+          "biome": "endgameexpanded:test_biome",
+          "parameters": {
+            "temperature": 0,
+            "humidity": 0,
+            "continentalness": 0,
+            "erosion": 0,
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "minecraft:lush_caves",
+          "parameters": {
+            "temperature": 0,
+            "humidity": 0,
+            "continentalness": 0,
+            "erosion": 0,
+            "weirdness": 0,
+            "depth": 2,
+            "offset": 0
+          }
+        }
+      ]
     }
   }
 }
