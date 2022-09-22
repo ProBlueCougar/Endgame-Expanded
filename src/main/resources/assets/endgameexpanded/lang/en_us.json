@@ -2,5 +2,6 @@
   "item.endgameexpanded.interdimensional_lighter": "Interdimensional Lighter",
   "block.endgameexpanded.infused_grass": "Infused Grass",
   "item.endgameexpanded.ender_ingot": "Ender Ingot",
-  "block.endgameexpanded.ender_ore": "Ender Ore"
+  "block.endgameexpanded.ender_ore": "Ender Ore",
+  "itemGroup.endgameexpanded.endgame_itemgroup": "Endgame Expanded"
 }
